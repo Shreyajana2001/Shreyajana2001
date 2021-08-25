@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 [<img align="left" alt="Shreya | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][https://www.linkedin.com/in/shreya-jana-757354192/]
-[<img align="left" alt="Shreya | Instagram" width="40px" src="https://giphy.com/embed/uo6rcjwHSAFsQ" />][https://www.instagram.com/___shhhreyaa____/]
+[<img align="left" alt="Shreya | Instagram" width="40px" src="https://giphy.com/gifs/socialbakers-instagram-logo-YwNCU8P5jGMNKGG5Bq/fullscreen" />][https://www.instagram.com/___shhhreyaa____/]
 [<img align="left" alt="Shreya | Facebook" width="40px" src="https://giphy.com/embed/ijEiXYEo9DBxm" />][https://www.facebook.com/profile.php?id=100005071934812]
 
 
