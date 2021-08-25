@@ -31,9 +31,14 @@ Here are some ideas to get you started:
 ### Contact with me 📝
 
 
-[<img align="left" alt="Shreya | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][https://www.linkedin.com/in/shreya-jana-757354192/]
+[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shreyajanapiu1234@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-jana-757354192/ "Connect on LinkedIn")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100005071934812 "Connect on Facebook")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/___shhhreyaa____/)
+
+<!-- [<img align="left" alt="Shreya | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][https://www.linkedin.com/in/shreya-jana-757354192/]
 [<img align="left" alt="Shreya | Instagram" width="40px" src="https://giphy.com/gifs/socialbakers-instagram-logo-YwNCU8P5jGMNKGG5Bq/fullscreen" />][https://www.instagram.com/___shhhreyaa____/]
-[<img align="left" alt="Shreya | Facebook" width="40px" src="https://giphy.com/embed/ijEiXYEo9DBxm" />][https://www.facebook.com/profile.php?id=100005071934812]
+[<img align="left" alt="Shreya | Facebook" width="40px" src="https://giphy.com/embed/ijEiXYEo9DBxm" />][https://www.facebook.com/profile.php?id=100005071934812] -->
 
 
 <br />
