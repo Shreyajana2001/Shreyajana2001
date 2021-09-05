@@ -72,10 +72,10 @@ Here are some ideas to get you started:
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyajana2001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyajana2001&&show_icons=true&theme=radical&line_height=27&v=5" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyajana2001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyajana2001&theme=radical&hide=glsl,python"/>
     </a>
 </div
   
