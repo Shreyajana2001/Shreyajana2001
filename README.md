@@ -87,5 +87,5 @@ Here are some ideas to get you started:
  
 ---
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shreyajana2001.Shreyajana2001)
+ ![visitors](https://profile-counter.glitch.me/Shreyajana2001/count.svg)
 
