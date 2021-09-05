@@ -38,8 +38,9 @@ Here are some ideas to get you started:
  -->
 
 [<img align="left" alt="Shreya | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/shreya-jana-757354192/)
-[<img align="left" alt="Shreya | Instagram" width="40px" src="https://media2.giphy.com/media/7wGXicB6KSTPq/giphy.gif?cid=790b761119adcd75bf9280b49f22dff374eeb876f9c48010&rid=giphy.gif&ct=g" />][https://www.instagram.com/___shhhreyaa____/]
-[<img align="left" alt="Shreya | Facebook" width="40px" src="https://media4.giphy.com/media/ijEiXYEo9DBxm/200.webp?cid=ecf05e47nw712kytmw6cwbiiiikhtnkshqcp823o2poai13o&rid=200.webp&ct=g" />][https://www.facebook.com/profile.php?id=100005071934812]
+[<img align="left" alt="Shreya | Instagram" width="40px" src="https://media2.giphy.com/media/7wGXicB6KSTPq/giphy.gif?cid=790b761119adcd75bf9280b49f22dff374eeb876f9c48010&rid=giphy.gif&ct=g" />](https://www.instagram.com/___shhhreyaa____/)
+[<img align="left" alt="Shreya | Facebook" width="40px" src="https://media4.giphy.com/media/ijEiXYEo9DBxm/200.webp?cid=ecf05e47nw712kytmw6cwbiiiikhtnkshqcp823o2poai13o&rid=200.webp&ct=g" />](https://www.facebook.com/profile.php?id=100005071934812)
+[<img align="left" alt="Shreya | Gmail" width="40px" src="https://media2.giphy.com/media/aOften89vRbG/giphy.gif?cid=ecf05e47khp2gmwlowi7wh8apleb7gt6n820ra9rl4jtay5y&rid=giphy.gif&ct=g" />](mailto:shreyajanapiu1234@gmail.com "Connect via Email")
 
 
 <br />
