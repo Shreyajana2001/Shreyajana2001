@@ -70,6 +70,12 @@ Here are some ideas to get you started:
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
+  <p align = "center">
+  <a href="https://github.com/Shreyajana2001/github-readme-streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Shreyajana2001&theme=midnight-purple&ring=DD8F09&fire=DD8F09&dates=20DD0A&currStreakNum=DDDDDD&sideNums=DDDDDD" />
+  </a>
+</p>
+  
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyajana2001&&show_icons=true&theme=radical&line_height=27&v=5" />
